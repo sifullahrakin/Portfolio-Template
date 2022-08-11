@@ -1,0 +1,161 @@
+/* Home Page  */
+/* Backgroubd */
+.home-body {
+    background-image: url(../images/space.jpg);
+    background-size: cover;
+}
+
+/* NavBar */
+
+.navbar {
+    padding-top: 30px;
+    padding-left: 50px;
+}
+
+.nav-item {
+    padding-left: 0px;
+    padding-right: 20px;
+    font-family: 'Roboto Mono, Helvetica, Arial, sans-serif';
+}
+
+h1 {
+    /* font-family: 'Montserrat-Black'; */
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.text-content {
+    font-family: ;
+    color: white;
+    font-size: 10rem;
+    margin: .67em 0
+}
+
+/* Works Page */
+.works-body {
+    /* background-image: url(../images/space.jpg); */
+    background-color: black;
+    background-size: cover;
+}
+
+.works-div {
+    background-color: white;
+    color: black;
+    margin: 10px;
+}
+
+.works-text {
+    font-family: 'Roboto Mono, Helvetica, Arial, sans-serif';
+    text-align: center;
+}
+
+.description {
+    width: 830px;
+    padding: 20px;
+    padding-left: 250px;
+    padding-right: 30px;
+}
+
+.carousel-items {
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.carousel-button {
+    color: black;
+}
+
+#footer {
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+/* About */
+
+.about-body {
+    background-color: black;
+    background-size: cover;
+}
+
+.about-div {
+    background-color: white;
+    color: black;
+    margin: 10px;
+}
+
+.about-text {
+    font-family: 'Roboto Mono, Helvetica, Arial, sans-serif';
+    text-align: center;
+}
+
+.about-text2 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-family: 'Roboto Mono, Helvetica, Arial, sans-serif';
+
+}
+
+.inner-text {
+    width: 200px;
+    padding-left: 200px;
+    text-align: left;
+}
+
+.title-img {
+    height: 400px;
+    width: 550px;
+    padding-right: 200px;
+}
+
+
+/* contact */
+
+.contact-body {
+    background-color: black;
+    background-size: cover;
+}
+
+.contact-div {
+    background-color: white;
+    color: black;
+    margin: 10px;
+}
+
+.contact-text {
+    font-family: 'Roboto Mono, Helvetica, Arial, sans-serif';
+    text-align: center;
+}
+
+.contact-text2 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 100px;
+    font-family: 'Roboto Mono, Helvetica, Arial, sans-serif';
+
+}
+
+.form-components {
+    padding-top: 25px;
+}
+
+.form-control {
+    outline: auto;
+
+}
+
+.icon-components {
+    padding-top: 30px;
+    padding-left: 50px;
+  
+}
+
+i {
+    padding-right: 10px;
+}
+
+li {
+    padding-bottom: 20px;
+
+}
